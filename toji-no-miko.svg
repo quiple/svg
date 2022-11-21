@@ -317,8 +317,8 @@
 	</clipPath>
 	
 		<linearGradient id="SVGID_00000170966690071891432820000016402736360769823128_" gradientUnits="userSpaceOnUse" x1="-277.5587" y1="474.478" x2="-264.2955" y2="474.478" gradientTransform="matrix(0 -10.6017 -10.6017 0 5037.0049 -2740.5747)">
-		<stop  offset="0" style="stop-color:#231815"/>
-		<stop  offset="0.5" style="stop-color:#231815"/>
+		<stop  offset="0" style="stop-color:#000"/>
+		<stop  offset="0.5" style="stop-color:#000"/>
 		<stop  offset="0.5591" style="stop-color:#2A211E"/>
 		<stop  offset="0.6555" style="stop-color:#3E3836"/>
 		<stop  offset="0.7772" style="stop-color:#5E5D5E"/>
