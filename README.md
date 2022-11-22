@@ -3,4 +3,4 @@
 
 This project is to collect vector images of the title logo from Japanese mangas and animations. All logo files in this repository are official logos taken from the official website or extracted from TV schedule tables, promotional POPs, etc.
 
-일부 AI 파일은 검정색이 짙은 갈회색(`#231815` 혹은 유사한 색상)으로 보일 수 있습니다.
+일부 AI 파일은 검정색이 짙은 갈회색(`#231815` 혹은 유사한 색상)으로 보일 수 있습니다. 대부분의 SVG 파일은 이 문제를 수정하였습니다.
