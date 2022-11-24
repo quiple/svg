@@ -5,4 +5,4 @@ This project is to collect vector images of the title logo from Japanese animes 
 
 일부 AI 파일은 검정색이 짙은 갈회색(`#231815` 혹은 이와 유사한 색상)으로 보일 수 있습니다. 대부분의 SVG 파일은 이 문제를 수정하였습니다.
 
-또한 일부 파일의 일부 커브 정보가 사라져 있습니다. 주로 크기가 작은 커브에서 문제가 확인됩니다.
+또한 일부 파일의 일부 커브 정보가 사라져 있습니다. ([#4](https://github.com/quiple/anime-svg/issues/4)) 주로 크기가 작은 커브에서 문제가 확인됩니다.
