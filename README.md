@@ -7,7 +7,7 @@ This project is to collect vector images of the title logo from Japanese animes 
 
 또한 일부 파일의 일부 커브 정보가 사라져 있습니다. ([#4](https://github.com/quiple/anime-svg/issues/4)) 주로 크기가 작은 커브에서 문제가 확인됩니다.
 
-## Created or Improved Files
+## Improved or Created Files
 * `darling-in-the-franxx` with Helvetica Neue LT
 * `hai-to-gensou-no-grimgar` with Adobe Garamond Pro
 * `inuyashiki` with Futura PT, 秀英初号明朝
