@@ -9,6 +9,7 @@ This project is to collect vector images of the title logo from Japanese animes 
 * `darling-in-the-franxx` with Helvetica Neue LT
 * `hai-to-gensou-no-grimgar` with Adobe Garamond
 * `inuyashiki` with Futura PT, 秀英初号明朝
+* `made-in-abyss` with ITC Blair
 * `orange` with 筑紫B見出ミン
 
 ## Sources
