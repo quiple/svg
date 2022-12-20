@@ -11,6 +11,7 @@ This project is to collect vector images of the title logo from Japanese animes 
 * `inuyashiki` with Futura PT, 秀英初号明朝
 * `made-in-abyss` with ITC Blair
 * `orange` with 筑紫B見出ミン
+* `sansha-sanyou-anime` with スーラキャピー
 
 ## Sources
 * <http://www.dokidokivisual.com/bookstore/img/pdf/(file-name).pdf>
