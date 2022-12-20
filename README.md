@@ -10,3 +10,10 @@ This project is to collect vector images of the title logo from Japanese animes 
 * `hai-to-gensou-no-grimgar` with Adobe Garamond
 * `inuyashiki` with Futura PT, 秀英初号明朝
 * `orange` with 筑紫B見出ミン
+
+## Sources
+* <https://s.mxtv.jp/jyushin/timetable/(file-name).pdf>
+* <https://www.tbs.co.jp/tbs-ch/schedules/monthly/pdf_guide/(file-name).pdf>
+* <https://www.bs11.jp/jyuittyan/program-guide/pdf/(file-name).pdf>
+* <https://sun-tv.co.jp/wp-content/uploads/monthly/(file-name).pdf>
+* <https://www.gtv.co.jp/timetable/pdf/(file-name).pdf>
