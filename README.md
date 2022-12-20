@@ -12,6 +12,7 @@ This project is to collect vector images of the title logo from Japanese animes 
 * `orange` with 筑紫B見出ミン
 
 ## Sources
+* <http://www.dokidokivisual.com/bookstore/img/pdf/(file-name).pdf>
 * <https://s.mxtv.jp/jyushin/timetable/(file-name).pdf>
 * <https://www.tbs.co.jp/tbs-ch/schedules/monthly/pdf_guide/(file-name).pdf>
 * <https://www.bs11.jp/jyuittyan/program-guide/pdf/(file-name).pdf>
