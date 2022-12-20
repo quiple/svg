@@ -17,3 +17,5 @@ This project is to collect vector images of the title logo from Japanese animes 
 * <https://www.bs11.jp/jyuittyan/program-guide/pdf/(file-name).pdf>
 * <https://sun-tv.co.jp/wp-content/uploads/monthly/(file-name).pdf>
 * <https://www.gtv.co.jp/timetable/pdf/(file-name).pdf>
+
+`(file-name)` is the year and date, or random name.
