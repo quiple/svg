@@ -20,5 +20,6 @@ Create and collect vector images. Most of the logo files in this repository are 
 * <https://www.bs11.jp/jyuittyan/program-guide/pdf/(file-name).pdf>
 * <https://sun-tv.co.jp/wp-content/uploads/monthly/(file-name).pdf>
 * <https://www.gtv.co.jp/timetable/pdf/(file-name).pdf>
+* Own
 
 `(file-name)` is the year and month, or random name.
