@@ -13,6 +13,7 @@ Create and collect vector images. Most of the logo files in this repository are 
 * `sansha-sanyou-anime` with スーラキャピー
 
 ## Sources
+* The official website for each image
 * <http://www.dokidokivisual.com/bookstore/img/pdf/(file-name).pdf>
 * <https://s.mxtv.jp/jyushin/timetable/(file-name).pdf>
 * <https://www.tbs.co.jp/tbs-ch/schedules/monthly/pdf_guide/(file-name).pdf>
