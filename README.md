@@ -7,10 +7,11 @@ Create and collect vector images. Most of the logo files in this repository are 
 ## Improved or Created Files
 * `darling-in-the-franxx` with Helvetica Neue LT
 * `hai-to-gensou-no-grimgar` with Adobe Garamond
-* `inuyashiki` with Futura PT, 秀英初号明朝
+* `inuyashiki` with Futura PT, Shuei Shogo Mincho (秀英初号明朝)
 * `made-in-abyss` with ITC Blair
-* `orange` with 筑紫B見出ミン
-* `sansha-sanyou-anime` with スーラキャピー
+* `orange` with Tsukushi B Midashi Min (筑紫B見出ミン)
+* `sansha-sanyou-anime` with Seurat Capie (スーラキャピー)
+* `yuru-camp-kor` with Sandoll Andante (Sandoll 안단테)
 
 ## Sources
 * The official website for each image
